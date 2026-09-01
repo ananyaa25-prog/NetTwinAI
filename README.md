@@ -14,11 +14,11 @@ Modern computer networks are becoming increasingly complex, making real-time mon
 
 **NetTwinAI** addresses this challenge by combining:
 
-- 🌐 **Network Digital Twin Technology**
-- 🤖 **Artificial Intelligence / Machine Learning**
-- 📊 **Network Monitoring and Analysis**
-- 🔍 **Predictive Analysis**
-- ⚡ **Intelligent Decision Making**
+-  **Network Digital Twin Technology**
+-  **Artificial Intelligence / Machine Learning**
+-  **Network Monitoring and Analysis**
+-  **Predictive Analysis**
+-  **Intelligent Decision Making**
 
 The digital twin provides a virtual environment where network conditions and possible changes can be analyzed without directly affecting the physical network.
 
@@ -38,29 +38,29 @@ The main objectives of NetTwinAI are to:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-### 🌐 Network Digital Twin
+###  Network Digital Twin
 Creates a virtual representation of the network environment for analysis and experimentation.
 
-### 🤖 AI-Based Analysis
+###  AI-Based Analysis
 Uses AI/ML techniques to analyze network data and identify meaningful patterns.
 
-### 📈 Network Monitoring
+###  Network Monitoring
 Provides a way to observe important network parameters and changes in network behavior.
 
-### 🔮 Predictive Capabilities
+###  Predictive Capabilities
 Explores the possibility of predicting network problems and performance changes before they occur.
 
-### 🧠 Intelligent Decision Support
+###  Intelligent Decision Support
 Helps evaluate potential network actions using the digital twin before applying them to the actual network.
 
-### 🧪 Safe Experimentation
+###  Safe Experimentation
 Allows network scenarios and possible changes to be evaluated in a virtual environment.
 
 ---
 
-## 🏗️ Conceptual Architecture
+##  Conceptual Architecture
 
 ```text
              ┌───────────────────────┐
